@@ -1,0 +1,10 @@
+a_rgs={
+    rg_alpha1={
+        name="alpha1"
+        location="eastus2"
+    }
+    rg_alpha2={
+        name="alpha2"
+        location="eastus2"
+    }
+}
